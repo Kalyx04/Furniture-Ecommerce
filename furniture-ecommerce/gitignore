@@ -1,0 +1,13 @@
+*.pyc
+.DS_Store
+Thumbs.db
+venv/
+env/
+.idea/
+.vscode/
+*.log
+*.sqlite3
+config.ini
+.env
+*.exe
+*.dll
